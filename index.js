@@ -44,7 +44,7 @@ db.add(`stat_${newMember.id}`, 5)
 
 })
 client.on("messageCreate", message => {
-if (message.author?.bot) return;
+if (message.author?.bot) return; //bu satırda hata alırsanız silin.
 const data = db.fetch(`sistem_${message.guild.id}`)
 if (!data) return;
 const userdata = db.fetch(`stat_${message.author.id}`)
