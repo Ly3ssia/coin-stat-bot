@@ -1,4 +1,4 @@
-Altyapı 40 starda paylaşılacaktır.
+## Discord Botları İçin Coinli Terfi Bot Altyapısı!
 
 ## 📷 Görseller
 ![image](https://user-images.githubusercontent.com/93944142/198531942-7eb3d66c-00bc-4839-8ccb-8e3510134b26.png)
